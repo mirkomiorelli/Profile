@@ -15,17 +15,8 @@ knitr::opts_chunk$set(echo = TRUE)
    
 Besides physics, I am interested in scientific programming and machine learning. I love outdoors activity, photography and kayaking.
 
+Here it is a cool image of fractal noise I made:
 
-```{r cars}
-summary(cars)
-```
+![][fractalNoise]
 
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[fractalNoise]: http://mirkomiorelli.com/img/bannerH.jpg "Logo Title Text 2"
